@@ -1,0 +1,24 @@
+{
+  "name": "package-manager-api-javascript-cojocaru-dan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/package-manager-api-javascript-cojocaru-dan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/package-manager-api-javascript-cojocaru-dan/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/package-manager-api-javascript-cojocaru-dan#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

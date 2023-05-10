@@ -22,4 +22,8 @@ app.get("/example", async (req, res) => {
 	res.send(fileData.toString())
 });
 
+const router = require("./router.js");
+
+app.use("/api/package", router);
+
 app.listen(port, () => console.log(`http://127.0.0.1:${port}`));
